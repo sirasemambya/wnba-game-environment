@@ -1,0 +1,13 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+
+# macOS
+.DS_Store
+
+# Generated Excel output and Excel lock files
+output/
+~$*.xlsx
